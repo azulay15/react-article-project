@@ -4,3 +4,8 @@
     border: 2px solid black;
     padding: 30px;
 }
+
+.Article h1 {
+    border:2px solid black;
+    box-shadow: 3px 3px black;
+}

@@ -3,9 +3,12 @@
     margin: auto;
     border: 2px solid black;
     padding: 30px;
+    background-color: rgb(203, 203, 216);
 }
 
 .Article h1 {
-    border:2px solid black;
-    box-shadow: 3px 3px black;
+    border:2px solid white;
+    box-shadow: 3px 3px white;
+    color: white;
+    background-color: black;
 }
